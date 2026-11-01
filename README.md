@@ -27,4 +27,8 @@ Accepts an item name, quantity and unit price, then calculates the total cost.
 Java
 
 ## Student
-Adekoya Kelvin
+Michel Nnaeme Somtochukwu 
+## Matriculation Number 
+25/17275
+## Department 
+Computer Science 
